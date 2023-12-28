@@ -1,0 +1,92 @@
+body
+{
+    background-color: hsl(47, 88%, 63%);
+    width: 1440px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 720px;
+    font-family: figtree;
+}
+.card
+{
+    border: 1px solid hsl(0, 0%, 50%);
+    height: 400px;
+    width: 280px;
+    border-radius: 10px;
+    box-shadow: 5px 5px hsl(0, 0%, 7%);
+    background-color: hsl(0, 0%, 100%);
+    
+}
+.card img
+{
+    width: 250px;
+    margin: 15px;    
+    display: flex;
+    border-radius: 10px;
+}
+.L
+{
+    background-color:hsl(47, 88%, 63%) ;
+    width: fit-content;
+    text-align: center;
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 15px;
+    font-weight: 600;
+}
+.p
+{
+ 
+ margin-left: 15px;
+ font-family: figtree;  
+ font-size: 12px;
+ font-weight: 600; 
+}
+.h
+{
+    margin-left: 15px;
+    font-family: figtree;
+    font-weight: 800;
+}
+.t
+{
+    margin-left: 15px;
+    font-weight: 600;
+    color: ;
+    font-size: 12px;
+    color: hsl(0, 0%, 50%);
+}
+.i
+{
+    display: flex;
+    
+}
+.i img
+{
+    height: 32px;
+    width: 32px;
+
+}
+.g
+{
+    
+    display: flex;
+    
+    font-size:12px ;
+    font-weight: 800;
+    margin-top: 25px;    
+}
+.a:active
+{
+    color: hsl(47, 88%, 63%);    
+}
+.a:link
+{
+    text-decoration: none;
+}
+.a
+{
+    color: hsl(0, 0%, 7%);
+}
