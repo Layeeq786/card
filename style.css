@@ -96,21 +96,4 @@ body
         align-items: flex-start;
         background-color: white;
     }
-    .card{
-        box-shadow: none;
-    }
-    .card-container{
-        flex-direction: column;
-    }
-    .result{
-        border-radius: 0 0 1rem 1rem;
-        width: 100%;
-    }
-    .result .info{
-        width: 250px;
-    }
-    .summary{
-        width: 100%;
-    }
-}
 
